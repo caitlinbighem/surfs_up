@@ -1,5 +1,4 @@
 # surfs_up
-# surfs_up
 Click here to view the analysis file: [Surfs_Up_Challenge](https://github.com/caitlinbighem/surfs_up)
 
 ## Overview of Analysis
